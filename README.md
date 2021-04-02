@@ -19,5 +19,6 @@ Sebelum mengikuti tutorial yang ada dibuku, pembaca harus memenuhi syarat di baw
 
 ## Cara mendownload materi, perhatikan gambar dibawah 
 
+![CARA DOWNLOAD](https://user-images.githubusercontent.com/27341239/113368479-14945480-9389-11eb-9afc-d67dd2d36fb1.png)
 
 
